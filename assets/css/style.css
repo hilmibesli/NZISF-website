@@ -126,3 +126,98 @@ tr:nth-child(even) {
 tr:hover {
   background-color: #ddd;
 }
+
+/* Küçük ekranlar için ayar */
+@media (max-width: 768px) {
+  /* Daha küçük ekranlar için genel layout */
+  main {
+    padding: 10px;
+  }
+
+  /* Başlıkları küçült */
+  h1, h2, h3 {
+    font-size: 1.5em;
+    text-align: center;
+  }
+
+  /* Navigation ve Logo uyumu */
+  header {
+    text-align: center;
+    padding: 10px;
+  }
+
+  .center-image img {
+    max-width: 80%; /* Resmi küçült */
+    height: auto;
+  }
+
+  /* Tabloyu yatay kaydırılabilir yap */
+  table {
+    display: block;
+    overflow-x: auto;
+    width: 100%;
+  }
+
+  /* Nav linkleri satır halinde görünmesi için */
+  nav a {
+    margin: 5px 0;
+    padding: 10px;
+    display: block;
+  }
+}
+
+/* Hamburger menü için CSS */
+.menu-icon {
+  display: none;
+  font-size: 1.5em;
+  cursor: pointer;
+  margin: 10px;
+}
+
+.nav-links {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  padding: 0;
+}
+
+/* Küçük ekranlarda menü düzeni */
+@media (max-width: 768px) {
+  .nav-links {
+    display: none;
+  }
+
+  .menu-icon {
+    display: block;
+  }
+}
+
+.menu-icon.active + .nav-links {
+  display: flex;
+}
+
+h1.site-title {
+  font-size: 1.5em;
+  margin: 10px 0;
+}
+
+main {
+  padding: 10px 20px;
+}
+
+body {
+  font-size: 16px;
+}
+
+@media (max-width: 768px) {
+  body {
+    font-size: 14px;
+  }
+}
+
+main {
+  background-color: #fff;
+  box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.1);
+  border-radius: 5px;
+}
+

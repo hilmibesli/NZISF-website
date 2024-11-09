@@ -9,7 +9,9 @@
 <body>
   <header>
     <h1 class="site-title">{{ site.title }}</h1>
-    <nav>
+    <!-- Menü İkonu -->
+    <div class="menu-icon">☰</div>
+    <nav class="nav-links">
       <a href="{{ site.baseurl }}/">Home</a>
       <a href="{{ site.baseurl }}/content/about">About</a>
       <a href="{{ site.baseurl }}/content/organization">Organization</a>
@@ -39,6 +41,14 @@
         scrollTopBtn.style.display = "none";
       }
     };
+  </script>
+
+  <!-- Hamburger Menü JavaScript Kodu -->
+  <script>
+    document.querySelector('.menu-icon').addEventListener('click', function() {
+      this.classList.toggle('active');
+      document.querySelector('.nav-links').classList.toggle('active');
+    });
   </script>
 </body>
 </html>
