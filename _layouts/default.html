@@ -4,40 +4,41 @@
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <title>{{ page.title }} - {{ site.title }}</title>
-  <link rel="stylesheet" href="{{ '/assets/css/style.css' | relative_url }}">
+  <link rel="stylesheet" href="{{ site.baseurl }}/assets/css/style.css">
 </head>
 <body>
   <header>
     <h1 class="site-title">{{ site.title }}</h1>
     <nav>
-      <a href="{{ '/' | relative_url }}">Home</a>
-      <a href="{{ '/content/about' | relative_url }}">About</a>
-      <a href="{{ '/content/organization' | relative_url }}">Organization</a>
-      <a href="{{ '/content/activities' | relative_url }}">Activities</a>
-      <a href="{{ '/content/messages' | relative_url }}">Messages</a>
-      <a href="{{ '/content/contact' | relative_url }}">Contact</a>
+      <a href="{{ site.baseurl }}/">Home</a>
+      <a href="{{ site.baseurl }}/content/about">About</a>
+      <a href="{{ site.baseurl }}/content/organization">Organization</a>
+      <a href="{{ site.baseurl }}/content/activities">Activities</a>
+      <a href="{{ site.baseurl }}/content/messages">Messages</a>
+      <a href="{{ site.baseurl }}/content/contact">Contact</a>
     </nav>    
   </header>
   <main>
     {{ content }}
   </main>
-</body>
-<!-- Scroll to Top Button -->
-<button onclick="scrollToTop()" id="scrollTopBtn" title="Go to top">Top</button>
 
-<!-- JavaScript Code for Scroll-to-Top -->
-<script>
-  function scrollToTop() {
-    window.scrollTo({ top: 0, behavior: 'smooth' });
-  }
+  <!-- Scroll to Top Button -->
+  <button onclick="scrollToTop()" id="scrollTopBtn" title="Go to top">Top</button>
 
-  window.onscroll = function() {
-    const scrollTopBtn = document.getElementById("scrollTopBtn");
-    if (document.body.scrollTop > 100 || document.documentElement.scrollTop > 100) {
-      scrollTopBtn.style.display = "block";
-    } else {
-      scrollTopBtn.style.display = "none";
+  <!-- JavaScript Code for Scroll-to-Top -->
+  <script>
+    function scrollToTop() {
+      window.scrollTo({ top: 0, behavior: 'smooth' });
     }
-  };
-</script>
+
+    window.onscroll = function() {
+      const scrollTopBtn = document.getElementById("scrollTopBtn");
+      if (document.body.scrollTop > 100 || document.documentElement.scrollTop > 100) {
+        scrollTopBtn.style.display = "block";
+      } else {
+        scrollTopBtn.style.display = "none";
+      }
+    };
+  </script>
+</body>
 </html>
