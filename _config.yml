@@ -21,7 +21,7 @@
 title: "NZISF Website"
 email: your-email@example.com
 description: "New Zealand Information Security Forum website"
-baseurl: "" # the subpath of your site, e.g. /blog
+baseurl: "/NZISF-website"
 url: "https://hilmibesli.github.io/NZISF-website/"
 twitter_username: jekyllrb
 github_username:  jekyll
