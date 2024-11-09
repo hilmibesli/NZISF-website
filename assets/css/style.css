@@ -4,6 +4,7 @@ body {
   margin: 0;
   padding: 0;
   line-height: 1.6;
+  font-size: 16px;
 }
 
 /* Header styling */
@@ -12,6 +13,7 @@ header {
   color: white;
   padding: 1em;
   margin: 0;
+  text-align: center;
 }
 
 .site-title {
@@ -37,10 +39,35 @@ nav a:hover {
   text-decoration: underline;
 }
 
+/* Hamburger menu for mobile */
+.menu-icon {
+  display: none;
+  font-size: 1.5em;
+  cursor: pointer;
+  margin: 10px;
+}
+
+/* Centered image container */
+.center-image {
+  text-align: center;
+}
+
+.center-image img {
+  display: inline-block;
+}
+
+.small-image {
+  width: 250px;
+  height: auto;
+}
+
 /* Main content styling */
 main {
   padding: 20px 250px;
   text-align: justify;
+  background-color: #fff;
+  box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.1);
+  border-radius: 5px;
 }
 
 /* Heading styles */
@@ -50,6 +77,11 @@ h1, h2, h3 {
 
 h1 {
   text-align: center;
+}
+
+h1.site-title {
+  font-size: 1.5em;
+  margin: 10px 0;
 }
 
 /* Scroll to top button styling */
@@ -70,20 +102,6 @@ h1 {
 
 #scrollTopBtn:hover {
   background-color: #555;
-}
-
-/* Centered image container */
-.center-image {
-  text-align: center;
-}
-
-.center-image img {
-  display: inline-block;
-}
-
-.small-image {
-  width: 250px;
-  height: auto;
 }
 
 /* Table styling */
@@ -127,97 +145,56 @@ tr:hover {
   background-color: #ddd;
 }
 
-/* Küçük ekranlar için ayar */
+/* Responsive design for small screens */
 @media (max-width: 768px) {
-  /* Daha küçük ekranlar için genel layout */
+  /* Adjust main padding and font size */
   main {
     padding: 10px;
+    font-size: 0.9em;
   }
 
-  /* Başlıkları küçült */
+  /* Resize headings for smaller screens */
   h1, h2, h3 {
     font-size: 1.5em;
-    text-align: center;
   }
 
-  /* Navigation ve Logo uyumu */
+  /* Adjust header layout */
   header {
-    text-align: center;
     padding: 10px;
   }
 
+  /* Resize images for mobile */
   .center-image img {
-    max-width: 80%; /* Resmi küçült */
+    max-width: 80%;
     height: auto;
   }
 
-  /* Tabloyu yatay kaydırılabilir yap */
+  /* Make table horizontally scrollable */
   table {
     display: block;
     overflow-x: auto;
     width: 100%;
   }
 
-  /* Nav linkleri satır halinde görünmesi için */
+  /* Display nav links in column format */
   nav a {
     margin: 5px 0;
     padding: 10px;
     display: block;
   }
-}
 
-/* Hamburger menü için CSS */
-.menu-icon {
-  display: none;
-  font-size: 1.5em;
-  cursor: pointer;
-  margin: 10px;
-}
-
-.nav-links {
-  display: flex;
-  flex-direction: column;
-  align-items: center;
-  padding: 0;
-}
-
-/* Küçük ekranlarda menü düzeni */
-@media (max-width: 768px) {
-  .nav-links {
-    display: none;
-  }
-
+  /* Show hamburger menu */
   .menu-icon {
     display: block;
   }
-}
 
-.menu-icon.active + .nav-links {
-  display: flex;
-}
+  .nav-links {
+    display: none; /* Initially hide nav links */
+    flex-direction: column;
+    align-items: center;
+  }
 
-h1.site-title {
-  font-size: 1.5em;
-  margin: 10px 0;
-}
-
-main {
-  padding: 10px 20px;
-}
-
-body {
-  font-size: 16px;
-}
-
-@media (max-width: 768px) {
-  body {
-    font-size: 14px;
+  .menu-icon.active + .nav-links {
+    display: flex;
   }
 }
-
-main {
-  background-color: #fff;
-  box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.1);
-  border-radius: 5px;
-}
-
