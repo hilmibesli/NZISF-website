@@ -13,7 +13,7 @@ title: "Organization"
   - Until the COVID pandemic, seminars included a cooked breakfast.
   - COVID forced us to convert seminars to an online mode.
   - As the threat of the COVID pandemic diminishes, we have introduced a new format for Thursday seminars: from time to time, we will hold them at companies interested in promoting information security issues. Cooked breakfasts will be served at these events.
-  - Yearly average registration at seminars has ranged from 10 to 23.
+  - Yearly average registration at seminars varies from 10 to 23.
 
 - **NZISF supports infosec events like OWASP NZ Days.**
 

@@ -9,7 +9,7 @@ title: "Activities"
 - **Topic**: The CISO’s relationship with the Board
 - **Speaker**: Stephen Coates
 - **Date**: 14th November at 8:00 am (via Zoom)
-- [Register here](https://events.humanitix.com/nzisf-nov-2024)
+- [Seminar details and registration]( {{ site.baseurl }}/assets/docs/14 November NZISF seminar.docx )
 
 
 ## 2024 Seminars
