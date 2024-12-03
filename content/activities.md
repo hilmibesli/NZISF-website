@@ -6,16 +6,17 @@ title: "Activities"
 # Past and Coming Activities
 
 ## Upcoming Seminar
-- **Topic**: The CISO’s relationship with the Board
-- **Speaker**: Stephen Coates
-- **Date**: 14th November at 8:00 am (via Zoom)
-- [Seminar details and registration]( {{ site.baseurl }}/assets/docs/14 November NZISF seminar.docx )
+- **Topic**: OWASP Top 10 Introduction
+- **Speaker**: Austin Chamberlain
+- **Date**: 12th December at 8:00 am NZDT (via Zoom)
+- [Seminar details and registration]( {{ site.baseurl }}/assets/docs/12 December NZISF seminar.docx )
 
 
 ## 2024 Seminars
 
 | Month      | Speaker          | Topic                                                                                     |
 |------------|-------------------|-------------------------------------------------------------------------------------------|
+| November   | Stephen Coates    | The CISO’s relationship with the Board                                                    |
 | October    | Rizwan Ahmad      | Towards a Unified Framework with ISO 27001:2022                                           |
 | September  | Igor Portugal     | Introduction to DevSecOps                                                                 |
 | July       | Kriv Naicker      | The Artificial Intelligence of Things, from New Zealand perspective                       |
