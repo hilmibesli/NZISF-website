@@ -12,6 +12,7 @@ title: "Activities"
 - [Seminar details and registration]( {{ site.baseurl }}/assets/docs/13%20February%20'25%20NZISF%20seminar.docx )
 
 
+
 ## 2024 Seminars
 
 | Month      | Speaker          | Topic                                                                                     |
