@@ -6,16 +6,18 @@ title: "Activities"
 # Past and Coming Activities
 
 ## Upcoming Seminar
-- **Topic**: OWASP Top 10 Introduction
-- **Speaker**: Austin Chamberlain
-- **Date**: 12th December at 8:00 am NZDT (via Zoom)
-- [Seminar details and registration]( {{ site.baseurl }}/assets/docs/12 December NZISF seminar.docx )
+- **Topic**: Securing the Scales of Justice: Tackling Cybersecurity Challenges in Law Firms
+- **Speaker**: Natasha Wilson
+- **Date**: 13th February at 8:00 am NZDT (via Zoom)
+- [Seminar details and registration]( {{ site.baseurl }}/assets/docs/13%20February%20'25%20NZISF%20seminar.docx )
+
 
 
 ## 2024 Seminars
 
 | Month      | Speaker          | Topic                                                                                     |
 |------------|-------------------|-------------------------------------------------------------------------------------------|
+| December   | Austin Chamberlain| OWASP Top 10 Introduction                                                                 |
 | November   | Stephen Coates    | The CISO’s relationship with the Board                                                    |
 | October    | Rizwan Ahmad      | Towards a Unified Framework with ISO 27001:2022                                           |
 | September  | Igor Portugal     | Introduction to DevSecOps                                                                 |
