@@ -6,12 +6,16 @@ title: "Activities"
 # Past and Coming Activities
 
 ## Upcoming Seminar
-- **Topic**: Securing the Scales of Justice: Tackling Cybersecurity Challenges in Law Firms
-- **Speaker**: Natasha Wilson
-- **Date**: 13th February at 8:00 am NZDT (via Zoom)
-- [Seminar details and registration]( {{ site.baseurl }}/assets/docs/13%20February%20'25%20NZISF%20seminar.docx )
+- **Topic**: Seminar topic: AI and Software Code – Some Legal Issues
+- **Speaker**: David Harvey
+- **Date**: 13th March at 8:00 am NZDT (via Zoom)
+- [Seminar details and registration]( {{ site.baseurl }}/assets/docs/13%20March%20'25%20NZISF%20seminar.docx )
 
+## 2025 Seminars
 
+| Month      | Speaker           | Topic                                                                                     |
+|------------|-------------------|-------------------------------------------------------------------------------------------|
+| February   | Natasha Wilson    | Securing the Scales of Justice: Tackling Cybersecurity Challenges in Law                  |
 
 ## 2024 Seminars
 

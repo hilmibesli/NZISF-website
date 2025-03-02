@@ -198,3 +198,8 @@ tr:hover {
     display: flex;
   }
 }
+
+.center-text {
+  text-align: center;
+  margin: 20px auto;
+}
