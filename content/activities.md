@@ -9,7 +9,7 @@ title: "Activities"
 - **Topic**: Seminar topic: AI and Software Code – Some Legal Issues
 - **Speaker**: David Harvey
 - **Date**: 13th March at 8:00 am NZDT (via Zoom)
-- [Seminar details and registration]( {{ site.baseurl }}/assets/docs/13%20March%20'25%20NZISF%20seminar.docx )
+- <a href="/NZISF-website/assets/docs/13%20March%2025%20NZISF%20seminar.pdf" target="_blank">📄 View Seminar Invitation (PDF)</a>
 
 ## 2025 Seminars
 
