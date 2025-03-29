@@ -6,15 +6,17 @@ title: "Activities"
 # Past and Coming Activities
 
 ## Upcoming Seminar
-- **Topic**: Seminar topic: AI and Software Code – Some Legal Issues
-- **Speaker**: David Harvey
-- **Date**: 13th March at 8:00 am NZDT (via Zoom)
-- <a href="/NZISF-website/assets/docs/13%20March%2025%20NZISF%20seminar.pdf" target="_blank">📄 View Seminar Invitation (PDF)</a>
+- **Topic**: Risk Wizardry: The dark art of wrangling data to assess
+risk
+- **Speaker**: Hinne Hettema
+- **Date**: 10th April at 8:00 am NZDT (via Zoom)
+- <a href= "/NZISF-website/assets/docs/10%20April%20'25%20NZISF%20seminar.pdf" target="_blank">📄 View Seminar Invitation (PDF)</a>
 
 ## 2025 Seminars
 
 | Month      | Speaker           | Topic                                                                                     |
 |------------|-------------------|-------------------------------------------------------------------------------------------|
+| March   | David Harvey    | AI and Software Code – Some Legal Issues                  |
 | February   | Natasha Wilson    | Securing the Scales of Justice: Tackling Cybersecurity Challenges in Law                  |
 
 ## 2024 Seminars

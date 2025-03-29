@@ -16,3 +16,7 @@ title: "Welcome to NZISF"
 <div class="center-image">
   <img src="{{ '/assets/images/sponsors.png' | relative_url }}" alt="Sponsors">
 </div>
+
+<div class="center-image">
+  <img src="{{ '/assets/images/Corinium.png' | relative_url }}" alt="Corinium" style="max-width: 40%;">
+</div>

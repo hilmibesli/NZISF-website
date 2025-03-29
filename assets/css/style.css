@@ -169,6 +169,16 @@ tr:hover {
     height: auto;
   }
 
+  .corinium-image {
+    text-align: center; /* Ortalamak için */
+    margin: 20px 0;
+  }
+  
+  .corinium-image img {
+    max-width: 10%;  /* Maksimum genişlik */
+    height: auto;      /* Oranı bozmadan küçült */
+  }
+
   /* Make table horizontally scrollable */
   table {
     display: block;
