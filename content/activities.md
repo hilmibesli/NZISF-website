@@ -5,23 +5,26 @@ title: "Activities"
 
 # Past and Coming Activities
 
-## Upcoming Seminar
-- **Topic**: Risk Wizardry: The dark art of wrangling data to assess
-risk
+## Upcoming Seminar - To Be Announced
+
+<!--
+- **Topic**: Risk Wizardry: The dark art of wrangling data to assess risk
 - **Speaker**: Hinne Hettema
 - **Date**: 10th April at 8:00 am NZDT (via Zoom)
 - <a href= "/NZISF-website/assets/docs/10%20April%20'25%20NZISF%20seminar.pdf" target="_blank">📄 View Seminar Invitation (PDF)</a>
+-->
 
 ## 2025 Seminars
 
 | Month      | Speaker           | Topic                                                                                     |
 |------------|-------------------|-------------------------------------------------------------------------------------------|
-| March   | David Harvey    | AI and Software Code – Some Legal Issues                  |
+| April      | Hinne Hettema     | Risk Wizardry: The dark art of wrangling data to assess risk                              |
+| March      | David Harvey      | AI and Software Code – Some Legal Issues                                                  |
 | February   | Natasha Wilson    | Securing the Scales of Justice: Tackling Cybersecurity Challenges in Law                  |
 
 ## 2024 Seminars
 
-| Month      | Speaker          | Topic                                                                                     |
+| Month      | Speaker           | Topic                                                                                     |
 |------------|-------------------|-------------------------------------------------------------------------------------------|
 | December   | Austin Chamberlain| OWASP Top 10 Introduction                                                                 |
 | November   | Stephen Coates    | The CISO’s relationship with the Board                                                    |
@@ -36,7 +39,7 @@ risk
 
 ## 2023 Seminars
 
-| Month      | Speaker          | Topic                                                                                     |
+| Month      | Speaker           | Topic                                                                                     |
 |------------|-------------------|-------------------------------------------------------------------------------------------|
 | December   | James Hitchiner   | Assurance is easy, I assure you                                                           |
 | November   | Stephen Coates    | Like ISO/IEC 27001 but backwards                                                          |
