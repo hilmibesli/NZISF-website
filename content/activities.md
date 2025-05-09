@@ -5,21 +5,22 @@ title: "Activities"
 
 # Past and Coming Activities
 
-<!--
-## Upcoming Seminar - To Be Announced
--->
 
+## Upcoming Seminar - To Be Announced
+
+<!--
 ## Upcoming Seminar
 
 - **Topic**: IoT Emerging Trends, Security Concerns and Australia Cyber Security ACT
 - **Speaker**: John Ayoade
 - **Date**: 08th May at 8:00 am NZDT (via Zoom)
 - <a href= "/NZISF-website/assets/docs/08%20May%202025%20NZISF%20seminar.pdf" target="_blank">📄 View Seminar Invitation (PDF)</a>
-
+-->
 ## 2025 Seminars
 
 | Month      | Speaker           | Topic                                                                                     |
 |------------|-------------------|-------------------------------------------------------------------------------------------|
+| May        | John Ayoade       | IoT Emerging Trends, Security Concerns and Australia Cyber Security ACT                   |
 | April      | Hinne Hettema     | Risk Wizardry: The dark art of wrangling data to assess risk                              |
 | March      | David Harvey      | AI and Software Code – Some Legal Issues                                                  |
 | February   | Natasha Wilson    | Securing the Scales of Justice: Tackling Cybersecurity Challenges in Law                  |
