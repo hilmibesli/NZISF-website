@@ -20,6 +20,7 @@ title: "Activities"
 
 | Month      | Speaker           | Topic                                                                                     |
 |------------|-------------------|-------------------------------------------------------------------------------------------|
+| June       | Lauren Veenstra   | CRITICAL NEXUS: The role of policy and cybersecurity in critical infrastructure resilience|
 | May        | John Ayoade       | IoT Emerging Trends, Security Concerns and Australia Cyber Security ACT                   |
 | April      | Hinne Hettema     | Risk Wizardry: The dark art of wrangling data to assess risk                              |
 | March      | David Harvey      | AI and Software Code – Some Legal Issues                                                  |
