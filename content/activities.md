@@ -5,17 +5,17 @@ title: "Activities"
 
 # Past and Coming Activities
 
-
-## Upcoming Seminar - To Be Announced
-
 <!--
+## Upcoming Seminar - To Be Announced
+-->
+
 ## Upcoming Seminar
 
-- **Topic**: CRITICAL NEXUS: The role of policy and cybersecurity in critical infrastructure resilience
-- **Speaker**: Lauren Veenstra
-- **Date**: 12th June at 8:00 am NZDT (via Zoom)
-- <a href= "/NZISF-website/assets/docs/12%20June%202025%20NZISF%20seminar.pdf" target="_blank">📄 View Seminar Invitation (PDF)</a>
--->
+- **Topic**: Military Cyber Operations vs Cyber Security
+- **Speaker**: Austin Chamberlain
+- **Date**: 14th August at 8:00 am NZDT (via Zoom)
+- <a href= "/NZISF-website/assets/docs/14%20August%202025%20NZISF%20seminar.pdf" target="_blank">📄 View Seminar Invitation (PDF)</a>
+
 ## 2025 Seminars
 
 | Month      | Speaker           | Topic                                                                                     |
