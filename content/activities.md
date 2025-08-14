@@ -5,21 +5,22 @@ title: "Activities"
 
 # Past and Coming Activities
 
-<!--
 ## Upcoming Seminar - To Be Announced
--->
 
+<!--
 ## Upcoming Seminar
 
 - **Topic**: Military Cyber Operations vs Cyber Security
 - **Speaker**: Austin Chamberlain
 - **Date**: 14th August at 8:00 am NZDT (via Zoom)
 - <a href= "/NZISF-website/assets/docs/14%20August%202025%20NZISF%20seminar.pdf" target="_blank">📄 View Seminar Invitation (PDF)</a>
+-->
 
 ## 2025 Seminars
 
 | Month      | Speaker           | Topic                                                                                     |
 |------------|-------------------|-------------------------------------------------------------------------------------------|
+| August     | Austin Chamberlain| Military Cyber Operations vs Cyber Security                                               |
 | June       | Lauren Veenstra   | CRITICAL NEXUS: The role of policy and cybersecurity in critical infrastructure resilience|
 | May        | John Ayoade       | IoT Emerging Trends, Security Concerns and Australia Cyber Security ACT                   |
 | April      | Hinne Hettema     | Risk Wizardry: The dark art of wrangling data to assess risk                              |
