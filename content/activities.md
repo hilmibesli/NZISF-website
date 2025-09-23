@@ -6,17 +6,17 @@ title: "Activities"
 
 # Past and Coming Activities
 
-
-## Upcoming Seminar - To Be Announced
-
 <!--
+## Upcoming Seminar - To Be Announced
+-->
+
 ## Upcoming Seminar
 
-- **Topic**: Incident Response Unplugged: Stories, Strategies & Survival Tips
-- **Speaker**: Conan Bradley
-- **Date**: 11th September at 8:00 am NZDT (via Zoom)
-- <a href= "/NZISF-website/assets/docs/11%20September%202025%20NZISF%20seminar.pdf" target="_blank">📄 View Seminar Invitation (PDF)</a>
--->
+- **Topic**: Supervising Artificial Intelligence Powered Cyber Security & Forensic Tools
+- **Speaker**: Brian Cusack
+- **Date**: 9th October at 8:00 am NZDT (via Zoom)
+- <a href= "/NZISF-website/assets/docs/20251009%20NZISF%20seminar.pdf" target="_blank">📄 View Seminar Invitation (PDF)</a>
+
 
 ## 2025 Seminars
 
