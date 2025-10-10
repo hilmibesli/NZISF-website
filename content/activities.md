@@ -6,22 +6,23 @@ title: "Activities"
 
 # Past and Coming Activities
 
-<!--
-## Upcoming Seminar - To Be Announced
--->
 
+## Upcoming Seminar - To Be Announced
+
+<!--
 ## Upcoming Seminar
 
 - **Topic**: Supervising Artificial Intelligence Powered Cyber Security & Forensic Tools
 - **Speaker**: Brian Cusack
 - **Date**: 9th October at 8:00 am NZDT (via Zoom)
 - <a href= "/NZISF-website/assets/docs/20251009%20NZISF%20seminar.pdf" target="_blank">📄 View Seminar Invitation (PDF)</a>
-
+-->
 
 ## 2025 Seminars
 
 | Month      | Speaker           | Topic                                                                                     |
 |------------|-------------------|-------------------------------------------------------------------------------------------|
+| October    | Brian Cusack      | Supervising Artificial Intelligence Powered Cyber Security & Forensic Tools               |
 | September  | Conan Bradley     | Incident Response Unplugged: Stories, Strategies & Survival Tips                          |
 | August     | Austin Chamberlain| Military Cyber Operations vs Cyber Security                                               |
 | June       | Lauren Veenstra   | CRITICAL NEXUS: The role of policy and cybersecurity in critical infrastructure resilience|
