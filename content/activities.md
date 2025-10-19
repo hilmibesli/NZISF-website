@@ -6,17 +6,17 @@ title: "Activities"
 
 # Past and Coming Activities
 
-
-## Upcoming Seminar - To Be Announced
-
 <!--
+## Upcoming Seminar - To Be Announced
+-->
+
 ## Upcoming Seminar
 
-- **Topic**: Supervising Artificial Intelligence Powered Cyber Security & Forensic Tools
-- **Speaker**: Brian Cusack
-- **Date**: 9th October at 8:00 am NZDT (via Zoom)
-- <a href= "/NZISF-website/assets/docs/20251009%20NZISF%20seminar.pdf" target="_blank">📄 View Seminar Invitation (PDF)</a>
--->
+- **Topic**: The Limitations of Data Privacy Laws: Global and New Zealand Developments
+- **Speaker**: Gehan Gunasekara
+- **Date**: 13th November at 8:00 am NZDT (via Zoom)
+- <a href= "/NZISF-website/assets/docs/20251113%20NZISF%20seminar.pdf" target="_blank">📄 View Seminar Invitation (PDF)</a>
+
 
 ## 2025 Seminars
 
