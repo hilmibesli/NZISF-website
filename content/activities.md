@@ -12,16 +12,17 @@ title: "Activities"
 
 ## Upcoming Seminar
 
-- **Topic**: The Limitations of Data Privacy Laws: Global and New Zealand Developments
-- **Speaker**: Gehan Gunasekara
-- **Date**: 13th November at 8:00 am NZDT (via Zoom)
-- <a href= "/NZISF-website/assets/docs/20251113%20NZISF%20seminar.pdf" target="_blank">📄 View Seminar Invitation (PDF)</a>
+- **Topic**: Make your Application Programming Interface more secure: a guide for setting up the GraphQL tool without going around in circles
+- **Speaker**: Kirk Jackson
+- **Date**: 11th December at 8:00 am NZDT (via Zoom)
+- <a href= "/NZISF-website/assets/docs/20251211%20NZISF%20seminar.pdf" target="_blank">📄 View Seminar Invitation (PDF)</a>
 
 
 ## 2025 Seminars
 
 | Month      | Speaker           | Topic                                                                                     |
 |------------|-------------------|-------------------------------------------------------------------------------------------|
+| November   | Gehan Gunasekara  | The Limitations of Data Privacy Laws: Global and New Zealand Developments                 |
 | October    | Brian Cusack      | Supervising Artificial Intelligence Powered Cyber Security & Forensic Tools               |
 | September  | Conan Bradley     | Incident Response Unplugged: Stories, Strategies & Survival Tips                          |
 | August     | Austin Chamberlain| Military Cyber Operations vs Cyber Security                                               |
