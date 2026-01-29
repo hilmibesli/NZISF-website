@@ -12,16 +12,17 @@ title: "Activities"
 
 ## Upcoming Seminar
 
-- **Topic**: Make your Application Programming Interface more secure: a guide for setting up the GraphQL tool without going around in circles
-- **Speaker**: Kirk Jackson
-- **Date**: 11th December at 8:00 am NZDT (via Zoom)
-- <a href= "/NZISF-website/assets/docs/20251211%20NZISF%20seminar.pdf" target="_blank">📄 View Seminar Invitation (PDF)</a>
+- **Topic**: From Door to Data: The Overlooked Role of Physical Security in Cyber Risk
+- **Speaker**: Reck Diogo
+- **Date**: 12th February at 8:00 am NZDT (via Zoom)
+- <a href= "/NZISF-website/assets/docs/20260212%20NZISF%20seminar.pdf" target="_blank">📄 View Seminar Invitation (PDF)</a>
 
 
 ## 2025 Seminars
 
 | Month      | Speaker           | Topic                                                                                     |
 |------------|-------------------|-------------------------------------------------------------------------------------------|
+| December   | Kirk Jackson      | Make your Application Programming Interface more secure                                   |
 | November   | Gehan Gunasekara  | The Limitations of Data Privacy Laws: Global and New Zealand Developments                 |
 | October    | Brian Cusack      | Supervising Artificial Intelligence Powered Cyber Security & Forensic Tools               |
 | September  | Conan Bradley     | Incident Response Unplugged: Stories, Strategies & Survival Tips                          |
