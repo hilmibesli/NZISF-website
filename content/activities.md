@@ -6,22 +6,23 @@ title: "Activities"
 
 # Past and Coming Activities
 
-<!--
-## Upcoming Seminar - To Be Announced
--->
 
+## Upcoming Seminar - To Be Announced
+
+<!--
 ## Upcoming Seminar
 
 - **Topic**: New Zealand Security Threat Environment Report 2025
 - **Speaker**: Toni Butler
 - **Date**: 12th March at 8:00 am NZDT (via Zoom)
 - <a href= "/NZISF-website/assets/docs/20260312%20NZISF%20seminar.pdf" target="_blank">📄 View Seminar Invitation (PDF)</a>
-
+-->
 
 ## 2026 Seminars
 
 | Month      | Speaker           | Topic                                                                                     |
 |------------|-------------------|-------------------------------------------------------------------------------------------|
+| March      | Toni Butler       | New Zealand Security Threat Environment Report 2025                                       |
 | February   | Reck Diogo        | From Door to Data: The Overlooked Role of Physical Security in Cyber Risk                 |
 
 ## 2025 Seminars
