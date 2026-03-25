@@ -6,17 +6,16 @@ title: "Activities"
 
 # Past and Coming Activities
 
-
-## Upcoming Seminar - To Be Announced
-
 <!--
+## Upcoming Seminar - To Be Announced
+-->
+
 ## Upcoming Seminar
 
-- **Topic**: New Zealand Security Threat Environment Report 2025
-- **Speaker**: Toni Butler
-- **Date**: 12th March at 8:00 am NZDT (via Zoom)
-- <a href= "/NZISF-website/assets/docs/20260312%20NZISF%20seminar.pdf" target="_blank">📄 View Seminar Invitation (PDF)</a>
--->
+- **Topic**: Defense alone is a losing strategy - How to make more informed decisions on where to place your security team’s effort and resources
+- **Speaker**: Michael Gioia
+- **Date**: 9th April at 8:00 am NZDT (via Zoom)
+- <a href= "/NZISF-website/assets/docs/20260409%20NZISF%20seminar.pdf" target="_blank">📄 View Seminar Invitation (PDF)</a>
 
 ## 2026 Seminars
 
