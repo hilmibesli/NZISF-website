@@ -12,15 +12,16 @@ title: "Activities"
 
 ## Upcoming Seminar
 
-- **Topic**: Defense alone is a losing strategy - How to make more informed decisions on where to place your security team’s effort and resources
-- **Speaker**: Michael Gioia
-- **Date**: 9th April at 8:00 am NZDT (via Zoom)
-- <a href= "/NZISF-website/assets/docs/20260409%20NZISF%20seminar.pdf" target="_blank">📄 View Seminar Invitation (PDF)</a>
+- **Topic**: Shadow AI, Insider Risk and the 2026 NZ Cyber Reality Check: when staff and AI collide - what Kordia’s 2026 data says about NZ cyber risk
+- **Speaker**: Patrick Sharp
+- **Date**: 14th May at 8:00 am NZDT (via Zoom)
+- <a href= "/NZISF-website/assets/docs/20260514%20NZISF%20seminar.pdf" target="_blank">📄 View Seminar Invitation (PDF)</a>
 
 ## 2026 Seminars
 
 | Month      | Speaker           | Topic                                                                                     |
 |------------|-------------------|-------------------------------------------------------------------------------------------|
+| April      | Michael Gioia     | Defense alone is a losing strategy - How to make more informed decisions on where to place your security team’s effort and resources|
 | March      | Toni Butler       | New Zealand Security Threat Environment Report 2025                                       |
 | February   | Reck Diogo        | From Door to Data: The Overlooked Role of Physical Security in Cyber Risk                 |
 
