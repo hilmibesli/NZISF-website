@@ -6,15 +6,16 @@ title: "Activities"
 
 # Past and Coming Activities
 
-## Upcoming Seminar - To Be Announced
-
 <!--
-## Upcoming Seminar
-- **Topic**: Shadow AI, Insider Risk and the 2026 NZ Cyber Reality Check: when staff and AI collide - what Kordia’s 2026 data says about NZ cyber risk
-- **Speaker**: Patrick Sharp
-- **Date**: 14th May at 8:00 am NZDT (via Zoom)
-- <a href= "/NZISF-website/assets/docs/20260514%20NZISF%20seminar.pdf" target="_blank">📄 View Seminar Invitation (PDF)</a>
+## Upcoming Seminar - To Be Announced
 -->
+
+## Upcoming Seminar
+- **Topic**: Navigating the Agentic AI Security Landscape: How Security Leaders Become Indispensable to Boards in the Age of Autonomous AI?
+- **Speaker**: Stephen Kraemer
+- **Date**: 11th June at 8:00 am NZDT (via Zoom)
+- <a href= "/NZISF-website/assets/docs/20260611%20NZISF%20seminar.pdf" target="_blank">📄 View Seminar Invitation (PDF)</a>
+
 
 ## 2026 Seminars
 
