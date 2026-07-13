@@ -6,22 +6,23 @@ title: "Activities"
 
 # Past and Coming Activities
 
-<!--
-## Upcoming Seminar - To Be Announced
--->
 
+## Upcoming Seminar - To Be Announced
+
+<!--
 ## Upcoming Seminar
 - **Topic**: Digital-Safety: Maturing the cyber-security conversation from "Is this system secure?" to "Is this product safe?”
 - **Speaker**: Andy Prow
 - **Date**: 9th July at 8:00 am NZDT (via Zoom)
 - <a href= "/NZISF-website/assets/docs/20260709%20NZISF%20seminar.pdf" target="_blank">📄 View Seminar Invitation (PDF)</a>
-
+-->
 
 ## 2026 Seminars
 
 | Month      | Speaker           | Topic                                                                                     |
 |------------|-------------------|-------------------------------------------------------------------------------------------|
-| June       | Stephen Kraemer   | Navigating the Agentic AI Security Landscape: How Security Leaders Become Indispensable to Boards in the Age of Autonomous AI? |
+ July       | Andy Prow   | Digital-Safety: Maturing the cyber-security conversation from "Is this system secure?" to "Is this product safe?” |
+ June       | Stephen Kraemer   | Navigating the Agentic AI Security Landscape: How Security Leaders Become Indispensable to Boards in the Age of Autonomous AI? |
 | May        | Patrick Sharp     | Shadow AI, Insider Risk and the 2026 NZ Cyber Reality Check: when staff and AI collide - what Kordia’s 2026 data says about NZ cyber risk |
 | April      | Michael Gioia     | Defense alone is a losing strategy - How to make more informed decisions on where to place your security team’s effort and resources|
 | March      | Toni Butler       | New Zealand Security Threat Environment Report 2025                                       |
