@@ -6,16 +6,16 @@ title: "Activities"
 
 # Past and Coming Activities
 
-
-## Upcoming Seminar - To Be Announced
-
 <!--
-## Upcoming Seminar
-- **Topic**: Digital-Safety: Maturing the cyber-security conversation from "Is this system secure?" to "Is this product safe?”
-- **Speaker**: Andy Prow
-- **Date**: 9th July at 8:00 am NZDT (via Zoom)
-- <a href= "/NZISF-website/assets/docs/20260709%20NZISF%20seminar.pdf" target="_blank">📄 View Seminar Invitation (PDF)</a>
+## Upcoming Seminar - To Be Announced
 -->
+
+## Upcoming Seminar
+- **Topic**: OWASP and AI - The LLM and Agentic AI Top 10
+- **Speaker**: Austin Chamberlain
+- **Date**: 13th August at 8:00 am NZDT (via Zoom)
+- <a href= "/NZISF-website/assets/docs/20260813%20NZISF%20seminar.pdf" target="_blank">📄 View Seminar Invitation (PDF)</a>
+
 
 ## 2026 Seminars
 
