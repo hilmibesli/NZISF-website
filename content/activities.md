@@ -11,9 +11,9 @@ title: "Activities"
 -->
 
 ## Upcoming Seminar
-- **Topic**: OWASP and AI - The LLM and Agentic AI Top 10
-- **Speaker**: Austin Chamberlain
-- **Date**: 13th August at 8:00 am NZDT (via Zoom)
+- **Topic**: Digital Safety and Security: Do we need a paradigm shift?
+- **Speaker**: Gabriel Akindeju
+- **Date**: 10th September at 8:00 am NZDT (via Zoom)
 - <a href= "/NZISF-website/assets/docs/20260813%20NZISF%20seminar.pdf" target="_blank">📄 View Seminar Invitation (PDF)</a>
 
 
@@ -21,6 +21,7 @@ title: "Activities"
 
 | Month      | Speaker           | Topic                                                                                     |
 |------------|-------------------|-------------------------------------------------------------------------------------------|
+ August       | Austin Chamberlain   | OWASP and AI - The LLM and Agentic AI Top 10 |
  July       | Andy Prow   | Digital-Safety: Maturing the cyber-security conversation from "Is this system secure?" to "Is this product safe?” |
  June       | Stephen Kraemer   | Navigating the Agentic AI Security Landscape: How Security Leaders Become Indispensable to Boards in the Age of Autonomous AI? |
 | May        | Patrick Sharp     | Shadow AI, Insider Risk and the 2026 NZ Cyber Reality Check: when staff and AI collide - what Kordia’s 2026 data says about NZ cyber risk |
