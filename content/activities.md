@@ -14,7 +14,7 @@ title: "Activities"
 - **Topic**: Digital Safety and Security: Do we need a paradigm shift?
 - **Speaker**: Gabriel Akindeju
 - **Date**: 10th September at 8:00 am NZDT (via Zoom)
-- <a href= "/NZISF-website/assets/docs/20260813%20NZISF%20seminar.pdf" target="_blank">📄 View Seminar Invitation (PDF)</a>
+- <a href= "/NZISF-website/assets/docs/20260910%20NZISF%20seminar.pdf" target="_blank">📄 View Seminar Invitation (PDF)</a>
 
 
 ## 2026 Seminars
