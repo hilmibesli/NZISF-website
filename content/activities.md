@@ -6,21 +6,22 @@ title: "Activities"
 
 # Past and Coming Activities
 
-<!--
-## Upcoming Seminar - To Be Announced
--->
 
+## Upcoming Seminar - To Be Announced
+
+<!--
 ## Upcoming Seminar
 - **Topic**: Digital Safety and Security: Do we need a paradigm shift?
 - **Speaker**: Gabriel Akindeju
 - **Date**: 10th September at 8:00 am NZDT (via Zoom)
 - <a href= "/NZISF-website/assets/docs/20260910%20NZISF%20seminar.pdf" target="_blank">📄 View Seminar Invitation (PDF)</a>
-
+-->
 
 ## 2026 Seminars
 
 | Month      | Speaker           | Topic                                                                                     |
 |------------|-------------------|-------------------------------------------------------------------------------------------|
+ September       | Gabriel Akindeju   | Digital Safety and Security: Do we need a paradigm shift? |
  August       | Austin Chamberlain   | OWASP and AI - The LLM and Agentic AI Top 10 |
  July       | Andy Prow   | Digital-Safety: Maturing the cyber-security conversation from "Is this system secure?" to "Is this product safe?” |
  June       | Stephen Kraemer   | Navigating the Agentic AI Security Landscape: How Security Leaders Become Indispensable to Boards in the Age of Autonomous AI? |
