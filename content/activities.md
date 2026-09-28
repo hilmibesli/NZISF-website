@@ -6,16 +6,16 @@ title: "Activities"
 
 # Past and Coming Activities
 
-
-## Upcoming Seminar - To Be Announced
-
 <!--
-## Upcoming Seminar
-- **Topic**: Digital Safety and Security: Do we need a paradigm shift?
-- **Speaker**: Gabriel Akindeju
-- **Date**: 10th September at 8:00 am NZDT (via Zoom)
-- <a href= "/NZISF-website/assets/docs/20260910%20NZISF%20seminar.pdf" target="_blank">📄 View Seminar Invitation (PDF)</a>
+## Upcoming Seminar - To Be Announced
 -->
+
+## Upcoming Seminar
+- **Topic**: One Year, Two Hemispheres: Comparing Information Security in Europe and New Zealand
+- **Speaker**: Chris Hails
+- **Date**: 8th October at 8:00 am NZDT (via Zoom)
+- <a href= "/NZISF-website/assets/docs/20261008%20NZISF%20seminar.pdf" target="_blank">📄 View Seminar Invitation (PDF)</a>
+
 
 ## 2026 Seminars
 
